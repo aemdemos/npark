@@ -1,2 +1,4 @@
 mountpoints:
-  /: <sharepoint url>
+  /: https://author-p152749-e1584268.adobeaemcloud.com/bin/franklin.delivery/aemdemos/npark/main
+  type: "markup"
+  suffix: ".html"
